@@ -6,7 +6,7 @@ using System;
 
 public class GameController : MonoBehaviour
 {
-    int progressAmount;
+    public int progressAmount;
     public Slider progressSlider;
 
     void Start()
@@ -21,7 +21,7 @@ public class GameController : MonoBehaviour
         progressSlider.value = progressAmount;
         if(progressAmount >=100)
         {
-            Debug.Log("You Win!");
+            Debug.Log("You Collected All Keys!");
         }
     }
     // Update is called once per frame

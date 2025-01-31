@@ -16,7 +16,7 @@
   - Move Left: **Left Arrow**  
   - Move Right: **Right Arrow**  
   - Jump: **Up Arrow**  
-  - **Goal:** Navigate through untouchable enemies **Evil Patrick** to reach the door.
+  - **Goal:** Navigate through untouchable enemies **Evil Patrick** that had beef with you to reach the door.
     
 If Pig King dies, both kings restarts, by the time they reached the end, a bond between brothers so strong will be unstoppable! 
 

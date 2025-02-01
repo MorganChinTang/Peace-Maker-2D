@@ -25,7 +25,7 @@ public class EndGoal : MonoBehaviour
             player2Finished = true;
         }
 
-        if (player1Finished && player2Finished && gameController.progressAmount >= 0)
+        if (player1Finished && player2Finished && gameController.progressAmount >= 100)
         {
             Debug.Log("Game Finished");
             animator.SetTrigger("isFinished");
